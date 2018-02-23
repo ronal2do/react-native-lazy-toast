@@ -1,9 +1,7 @@
 # React Native Lazy Toast
 
 
-<p align="center">
     ![Example](/media/giphy.gif)
-</p>
 
 
 ## Installation
