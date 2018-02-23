@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ronal2do/react-native-lazy-toast/issues"
   },
-  "homepage": "https://github.com/ronal2do/react-native-lazy-toast#readme"
+  "homepage": "https://github.com/ronal2do/react-native-lazy-toast#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
