@@ -84,6 +84,9 @@ The color of the `Accept` button.
 - Pass styles for childrens
 - Toast auto-hide, without action buttons
 
+## Credits
+Inspired by https://github.com/kiok46/ReactNative-Challenge-6
+
 ## License
 
 MIT © [Ronaldo Lima](http://github.com/ronal2do)
