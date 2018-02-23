@@ -24,9 +24,9 @@ import { withNotification } from 'react-native-lazy-toast';
 
 const Action = () => console.log('action')
 
-const App = () => 
+const App = ({ notify }) => 
     <Button
-      onPress={this.props.notify()}
+      onPress={ () => notify() }
       title="Join with HOC"
       color="#841584"
       accessibilityLabel="Learn more about this purple button"
