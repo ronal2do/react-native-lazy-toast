@@ -1,1 +1,1 @@
-# react-native-sweet-alert
+# React Native Lazy Toast
