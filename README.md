@@ -82,6 +82,7 @@ The color of the `Accept` button.
 - 3 sizes
 - Custom buttons
 - Pass styles for childrens
+- Toast auto-hide, without action buttons
 
 ## License
 
