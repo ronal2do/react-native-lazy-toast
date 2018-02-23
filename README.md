@@ -1,9 +1,6 @@
 # React Native Lazy Toast
 
-
-<p align="center">
-    ![Example](/media/giphy.gif)
-</p>
+   ![Example](/media/giphy.gif)
 
 
 ## Installation
@@ -85,6 +82,10 @@ The color of the `Accept` button.
 - 3 sizes
 - Custom buttons
 - Pass styles for childrens
+- Toast auto-hide, without action buttons
+
+## Credits
+Inspired by https://github.com/kiok46/ReactNative-Challenge-6
 
 ## License
 
