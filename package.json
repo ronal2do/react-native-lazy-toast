@@ -1,0 +1,24 @@
+{
+  "name": "react-native-lazy-toast",
+  "version": "0.0.1",
+  "description": "Easy toast with PureJS for react-native without dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronal2do/react-native-lazy-toast.git"
+  },
+  "keywords": [
+    "React-Native",
+    "Toast",
+    "Alert"
+  ],
+  "author": "Ronal2do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronal2do/react-native-lazy-toast/issues"
+  },
+  "homepage": "https://github.com/ronal2do/react-native-lazy-toast#readme"
+}
